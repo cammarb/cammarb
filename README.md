@@ -1,10 +1,10 @@
-### <div align="center">I'm Camila, but everyone calls me Cam! I'm an Information Systems Engineering Student and want to become a front-end developer 🚀</div>  
+### <div align="center">I'm Camila, but everyone calls me Cam! I'm a Software Engineering Student and want to become a full-stack developer 🚀</div>  
   
 
-- 💼 I’m currently working at [KINDO PERÚ](http://kindo.pe)  
+- 💼 I’m currently looking for job opportunities! 
   
 
-- ✏️ I’m currently learning Python, Java and C#  
+- ✏️ I’m currently practicing Java and Spring Boot. Also. I'm learning gnome application development.
   
 
 - ⚡ Fun fact: I use tabs over spaces  
