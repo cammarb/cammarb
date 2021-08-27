@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I use tabs over spaces  
   
 
-- 🏳️‍🌈 Lesbian, she/they
+- 🏳️‍🌈 Queer, she/they
   
 
 <br/>  
