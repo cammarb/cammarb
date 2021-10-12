@@ -4,7 +4,7 @@
 - 💼 I’m currently looking for job opportunities! 
   
 
-- ✏️ I’m currently practicing Java and Spring Boot. Also. I'm learning gnome application development.
+- ✏️ I’m currently learning Flask.
   
 
 - ⚡ Fun fact: I use tabs over spaces  
