@@ -5,6 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 ![Java](https://img.shields.io/badge/Java-Intermediate-red)
 ![Python](https://img.shields.io/badge/Python-Intermediate-green)
+![C#](https://img.shields.io/badge/CS-Beginner-purple)
 
 Software Engineering student at [Code University](https://code.berlin/en/) in 🇩🇪. On my way of becoming a ⚙️full-stack developer. 🐧Linux enthusiast. From Lima, 🇵🇪.
 
