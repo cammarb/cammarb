@@ -14,8 +14,8 @@ Software Engineering student at [Code University](https://code.berlin/en/) in �
 
 ### 📧 Get in Touch
 
-- GitHub: [https://github.com/cammarb][github]
-- LinkedIn: [https://www.linkedin.com/in/camila-mart%C3%ADnez-bedoya-5b43011a2/][linkedin]
+- GitHub: [cammarb](https://github.com/cammarb)
+- LinkedIn: [Camila Martinez Bedoya](https://www.linkedin.com/in/camila-mart%C3%ADnez-bedoya-5b43011a2/)
 - E-mail: camilamarb98@gmail.com
 
 ### 🔥 Stats
