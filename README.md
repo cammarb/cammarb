@@ -7,7 +7,7 @@
 ![Python](https://img.shields.io/badge/Python-Intermediate-green)
 ![C#](https://img.shields.io/badge/CS-Beginner-purple)
 
-Software Engineering student at [Code University](https://code.berlin/en/) in 🇩🇪. On my way of becoming a ⚙️full-stack developer. 🐧Linux enthusiast. From Lima, 🇵🇪.
+Software Engineering student at [Code University](https://code.berlin/en/) in 🇩🇪. On my way to becoming a ⚙️full-stack developer. 🐧Linux enthusiast. From Lima, 🇵🇪.
 
 - 🔨 Experience with: `.py`, `.html`, `.css`, `.js`, `.java`, `.cpp`, `.cs`
 - 💻 I’m looking to learn and collaborate on **Linux** related projects
