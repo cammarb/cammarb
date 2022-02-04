@@ -3,7 +3,7 @@
 Software Engineering student at [Code University](https://code.berlin/en/) in 🇩🇪. On my way to become a ⚙️full-stack developer. 🐧Linux enthusiast. From Lima, 🇵🇪.
 
 - 🔨 Experience with: `.py`, `.html`, `.css`, `.js`, `.java`, `.cpp`, `.cs`
-- 💻 I’m looking to learn and collaborate on **Linux** related projects
+- 💻 I’m looking to learn/collaborate on **Open Source** projects
 
 ### 📧 Get in Touch
 
