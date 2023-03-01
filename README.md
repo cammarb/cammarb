@@ -1,6 +1,6 @@
 # Hello, I'm Camila Martinez 🚀
 
-Software Engineering student at [Code University](https://code.berlin/en/) in 🇩🇪. On my way to become a ⚙️full-stack developer. 🐧Linux enthusiast. From Lima, 🇵🇪.
+Software Engineering student at [Code University](https://code.berlin/en/) in Berlin, 🇩🇪. On my way to become a ⚙️full-stack developer. 🐧Linux enthusiast. From Lima, 🇵🇪.
 
 - 🔨 Experience with: `.py`, `.html`, `.css`, `.js`, `.java`, `.cpp`, `.cs`
 - 💻 I’m looking to learn/collaborate on **Open Source** projects
