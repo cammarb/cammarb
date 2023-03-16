@@ -8,7 +8,7 @@ Software Engineering student at [Code University](https://code.berlin/en/) in Be
 ### 📧 Get in Touch
 
 - GitHub: [cammarb](https://github.com/cammarb)
-- Website/Portfolio: [cammarb.xyz/](https://cammarb.xyz/)
+- Website/Portfolio: [cammarb.xyz](https://cammarb.xyz)
 - LinkedIn: [Camila Martinez Bedoya](https://www.linkedin.com/in/camila-mart%C3%ADnez-bedoya-5b43011a2/)
 - E-mail: camilamarb98@gmail.com
 
