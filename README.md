@@ -1,8 +1,8 @@
 # Hello, I'm Camila Martinez 🚀
 
-Software Engineering student at [Code University](https://code.berlin/en/) in Berlin, 🇩🇪. On my way to become a ⚙️full-stack developer. 🐧Linux enthusiast. From Lima, 🇵🇪.
+SE @ [Code University](https://code.berlin/en/) in Berlin, 🇩🇪. ⚙️Full-stack developer. 🐧Linux enthusiast. From Lima, 🇵🇪.
 
-- 🔨 Experience with: `.py`, `.html`, `.css`, `.js`, `.java`, `.cpp`, `.cs`
+- 🔨 Experience with: `.py`, `.html`, `.css`, `.js`, `.ts`, `.java`, `.cpp`, `.cs`, `.rustc`
 - 💻 I’m looking to learn/collaborate on **Open Source** projects
 
 ### 📧 Get in Touch
@@ -10,7 +10,6 @@ Software Engineering student at [Code University](https://code.berlin/en/) in Be
 - GitHub: [cammarb](https://github.com/cammarb)
 - Website/Portfolio: [cammarb.xyz](https://cammarb.xyz)
 - LinkedIn: [Camila Martinez Bedoya](https://www.linkedin.com/in/cammarb)
-- E-mail: camilamarb98@gmail.com
 
 ### 🔥 Stats
 
