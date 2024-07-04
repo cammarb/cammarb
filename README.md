@@ -2,7 +2,7 @@
 
 SE @ [Code University](https://code.berlin/en/) in Berlin, 🇩🇪. ⚙️Full-stack developer. 🐧Linux enthusiast. From Lima, 🇵🇪.
 
-- 🔨 Experience with: `.py`, `.html`, `.css`, `.js`, `.ts`, `.java`, `.cpp`, `.cs`
+- 🔨 Experience with: `Typescript/Javascript`, `Kotlin`, `Python`, `Java`, `C++`, `C#`
 - 💻 I’m looking to learn/collaborate on **Open Source** projects
 
 ### 📧 Get in Touch
