@@ -1,7 +1,7 @@
 # Hello, I'm Camila Martinez 🚀
 
 Software Engineering @ [Code University](https://code.berlin/en/) in Berlin, 🇩🇪
-Currently working in [Axel Springer NMT](https://www.axelspringer.com/en/)
+Currently working at [Axel Springer NMT](https://www.axelspringer.com/en/)
 
 Full-stack developer, Linux enthusiast
 
