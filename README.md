@@ -1,9 +1,12 @@
 # Hello, I'm Camila Martinez 🚀
 
-SE @ [Code University](https://code.berlin/en/) in Berlin, 🇩🇪. ⚙️Full-stack developer. 🐧Linux enthusiast. From Lima, 🇵🇪.
+Software Engineering @ [Code University](https://code.berlin/en/) in Berlin, 🇩🇪
+Currently working in [Axel Springer NMT](https://www.axelspringer.com/en/)
 
-- 🔨 Experience with: `Typescript/Javascript`, `Kotlin`, `Python`, `Java`, `C++`, `C#`
-- 💻 I’m looking to learn/collaborate on **Open Source** projects
+Full-stack developer, Linux enthusiast
+
+- 🔨 Experience with: `Kotlin`, `Typescript/Javascript`, `Python`, `Java`, `C++`, `C#`
+- 💻 Always looking to learn/collaborate on **Open Source** projects
 
 ### 📧 Get in Touch
 
