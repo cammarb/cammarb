@@ -1,4 +1,4 @@
-# Hello, I'm Camila Martinez 🚀
+# Hallo, I'm Camila 👋
 
 Software Engineering @ [Code University](https://code.berlin/en/) in Berlin, 🇩🇪
 Currently working at [Axel Springer NMT](https://www.axelspringer.com/en/)
