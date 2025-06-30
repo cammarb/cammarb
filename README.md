@@ -1,7 +1,8 @@
 # Hallo, I'm Camila 👋
 
-Software Engineering @ [Code University](https://code.berlin/en/) in Berlin, 🇩🇪
-Currently working at [Axel Springer NMT](https://www.axelspringer.com/en/)
+B.Sc in Software Engineering @ [Code University](https://code.berlin/en/)
+
+Currently working at [Axel Springer NMT](https://www.axelspringer.com/en/) in Berlin, 🇩🇪
 
 - 🔨 Experience with: `Kotlin`, `Typescript/Javascript`, `Python`, `Java`, `C++`, `C#`
 - 💻 Looking to collaborate on **Open Source** projects
