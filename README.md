@@ -4,7 +4,7 @@ Software Engineering @ [Code University](https://code.berlin/en/) in Berlin, �
 Currently working at [Axel Springer NMT](https://www.axelspringer.com/en/)
 
 - 🔨 Experience with: `Kotlin`, `Typescript/Javascript`, `Python`, `Java`, `C++`, `C#`
-- 💻 Looking to learn/collaborate on **Open Source** projects
+- 💻 Looking to collaborate on **Open Source** projects
 
 ### 📧 Get in Touch
 
