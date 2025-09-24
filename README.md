@@ -15,4 +15,4 @@ Currently working at [Axel Springer NMT](https://www.axelspringer.com/en/) in Be
 
 ### 🔥 Stats
 
-![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=cammarb&show_icons=true&theme=dark)
+![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=cammarb&show_icons=true&theme=transparent)
