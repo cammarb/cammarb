@@ -1,6 +1,6 @@
 # Hallo, I'm Camila 👋
 
-I have a Bachelor of Science in Software Engineering @ [Code University](https://code.berlin/en/)
+I have a Bachelor of Science in Software Engineering from [Code University](https://code.berlin/en/)
 
 Currently working at [Axel Springer NMT](https://www.axelspringer.com/en/) in Berlin, 🇩🇪
 
