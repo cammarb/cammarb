@@ -4,7 +4,7 @@ B.Sc. in Software Engineering from [Code University](https://code.berlin/en/)
 
 Currently working at [Axel Springer NMT](https://www.axelspringer.com/en/) in Berlin, 🇩🇪
 
-- 🔨 I'm experienced with `Kotlin`, `Typescript/Javascript`, `Python`, `Java`, `C++`, some `C#`, and the usual suspect frameworks/libraries like `Spring Boot`, `Flask` and `React`.
+- 🔨 Experienced with `Kotlin`, `Typescript/Javascript`, `Python`, `Java`, `C++`, some `C#`, and the usual suspect frameworks/libraries like `Spring Boot`, `Flask` and `React`.
 - 🪄 I worked some time as an **IT wizard** at [Wooga GmbH](https://www.wooga.com), so I might be able to fix your computer.
 
 ### 📧 Get in Touch
