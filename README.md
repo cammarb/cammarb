@@ -1,8 +1,8 @@
 # Hallo, I'm Camila 👋
 
-B.Sc. in Software Engineering from [Code University](https://code.berlin/en/)
+Currently working as a Junior Software Engineer at [Axel Springer NMT](https://www.axelspringer.com/en/) in Berlin, 🇩🇪
 
-Currently working at [Axel Springer NMT](https://www.axelspringer.com/en/) in Berlin, 🇩🇪
+B.Sc. in Software Engineering from [Code University](https://code.berlin/en/)
 
 - 🔨 Experienced with `Kotlin`, `Typescript/Javascript`, `Python`, `Java`, `C++`, some `C#`, and the usual suspect frameworks/libraries like `Spring Boot`, `Flask` and `React`.
 - 🪄 I worked some time as an **IT wizard** at [Wooga GmbH](https://www.wooga.com), so I might be able to fix your computer.
