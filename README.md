@@ -12,7 +12,3 @@ B.Sc. in Software Engineering from [Code University](https://code.berlin/en/)
 - GitHub: [cammarb](https://github.com/cammarb)
 - Website: [cammarb.xyz](https://cammarb.xyz)
 - LinkedIn: [Camila Martinez Bedoya](https://www.linkedin.com/in/cammarb)
-
-### 🔥 Stats
-
-![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=cammarb&show_icons=true&theme=transparent)
