@@ -1,6 +1,6 @@
 # Hallo, I'm Camila 👋
 
-Currently working as a Junior Software Engineer at [Axel Springer NMT](https://www.axelspringer.com/en/) in Berlin, 🇩🇪
+Currently working as a Software Engineer at [Axel Springer NMT](https://www.axelspringer.com/en/) in Berlin, 🇩🇪
 
 Got a B.Sc. in Software Engineering from [Code University](https://code.berlin/en/)
 
